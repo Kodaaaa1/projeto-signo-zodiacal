@@ -2,6 +2,10 @@
 
 Projeto desenvolvido em **HTML, CSS, JavaScript e Bootstrap** para descobrir o signo do usuário de acordo com a data de nascimento.
 
+## 🌐 Acesse o Site
+
+https://kodaaaa1.github.io/projeto-signo-zodiacal/
+
 ## 📌 Funcionalidades
 
 - Inserção da data de nascimento
