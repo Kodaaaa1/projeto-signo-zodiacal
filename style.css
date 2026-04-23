@@ -1,0 +1,18 @@
+body {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #4b2cff, #0dcaf0);
+}
+.caixa {
+  border: none;
+  border-radius: 20px;
+}
+h1 { font-weight: 700; }
+#signoNome {
+  color: #4b2cff;
+  font-weight: 700;
+}
+#resultado {
+  background: #f8f9fa;
+  border-radius: 16px;
+  padding: 16px;
+}
